@@ -1,5 +1,9 @@
 # Hi 👋, I'm Sadumina Rathnayaka 
 
+<p align="center">
+  <img src="https://www.google.com/imgres?q=coding%20image%20for%20github%20readme%20profile%20header%20animated%20programmer%20professional&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1000%2F1*1-qThLZr4SdLZKYlMpDiIA.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ayushborage28%2Fmaster-your-developer-identity-the-github-profile-readme-revolution-ee433551466b&docid=5XHw243Wm-gClM&tbnid=V4HS7ru6EU8umM&vet=12ahUKEwip3P_4l6WKAxUms1YBHbRnBFQQM3oFCIUBEAA..i&w=1000&h=420&hcb=2&ved=2ahUKEwip3P_4l6WKAxUms1YBHbRnBFQQM3oFCIUBEAA" alt="Sadumina Rathnayaka" width="300" height="300"/>
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
 
 ## A passionate developer striving to build amazing things!
