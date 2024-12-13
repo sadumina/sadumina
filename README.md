@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sadumina Rathnayaka 
 
 <p align="center">
-  <img src="https://www.google.com/imgres?q=coding%20image%20for%20github%20readme%20profile%20header%20animated%20programmer%20professional&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1000%2F1*1-qThLZr4SdLZKYlMpDiIA.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ayushborage28%2Fmaster-your-developer-identity-the-github-profile-readme-revolution-ee433551466b&docid=5XHw243Wm-gClM&tbnid=V4HS7ru6EU8umM&vet=12ahUKEwip3P_4l6WKAxUms1YBHbRnBFQQM3oFCIUBEAA..i&w=1000&h=420&hcb=2&ved=2ahUKEwip3P_4l6WKAxUms1YBHbRnBFQQM3oFCIUBEAA" alt="Sadumina Rathnayaka" width="300" height="300"/>
+  <img src="https://camo.githubusercontent.com/2a50a7d7ae5024f74fad6ea1cab81c197e975e028147bb9a3d3441296f05af88/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067" alt="Sadumina Rathnayaka" width="300" height="300"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
