@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sadumina Rathnayaka  
 
 <p align="center">
-  <img src="C:\Users\hp\Downloads\DALL·E 2025-01-22 13.03.04 - A vibrant and dynamic GitHub profile header for a passionate web developer specializing in MERN stack, Java, and modern technologies. The design featu.webp" alt="Professional Header Image" width="1000" height="250"/>
+  <img src="file:///C:/Users/hp/Downloads/github-banner-professional.svg" alt="" width="1000" height="250"/>
 </p>
 
 ## 👨‍💻 About Me  
