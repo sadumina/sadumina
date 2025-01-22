@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sadumina Rathnayaka  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadumina/images-/refs/heads/main/DALL%C2%B7E%202025-01-22%2013.03.04%20-%20A%20vibrant%20and%20dynamic%20GitHub%20profile%20header%20for%20a%20passionate%20web%20developer%20specializing%20in%20MERN%20stack%2C%20Java%2C%20and%20modern%20technologies.%20The%20design%20featu.webp?token=GHSAT0AAAAAAC5R6HXKIN2FFLBTUHJDE7PSZ4QUVPQ" alt="" width="800" height="250"/>
+  <img src="" alt="" width="800" height="250"/>
 </p>
 
 ## 👨‍💻 About Me  
