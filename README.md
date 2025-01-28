@@ -23,18 +23,16 @@ I believe in constant growth, challenging myself with new technologies, and crea
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/sadumina-bagya-744792278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.hackerrank.com/your-profile" target="_blank">
+  <a href="https://www.hackerrank.com/profile/it23394124" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%2315B858.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.youtube.com/@your-channel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+ 
 </p>
 
 ---
