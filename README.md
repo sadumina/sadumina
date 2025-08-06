@@ -1,4 +1,4 @@
-# Hi there, I'm Sadumina Rathnayaka! 👋
+# Hi there, I'm Sadumina Bagya! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=IT+Undergraduate;Full+Stack+Developer;DevOps+Enthusiast;AI%2FML+Explorer;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
@@ -22,13 +22,27 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **🚀 Programming Languages** | <img src="https://skillicons.dev/icons?i=python,kotlin,go,js" /> |
-| **🌐 Web Technologies** | <img src="https://skillicons.dev/icons?i=html,css,sass" /> |
+| **🚀 Programming Languages** | <img src="https://skillicons.dev/icons?i=python,kotlin,go,js,java,php" /> |
+| **🌐 Web Technologies** | <img src="https://skillicons.dev/icons?i=html,css,sass,react,nodejs,express" /> |
+| **🖥️ Backend & Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express,php" /> |
 | **📱 Mobile Development** | <img src="https://skillicons.dev/icons?i=android,kotlin" /> |
-| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=sqlite" /> |
-| **⚙️ DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github" /> |
-| **💻 Development Environment** | <img src="https://skillicons.dev/icons?i=vscode" /> |
-| **🎯 Currently Learning** | <img src="https://skillicons.dev/icons?i=aws,kubernetes,tensorflow" /> |
+| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> |
+| **🛠️ API Testing & Development** | <img src="https://skillicons.dev/icons?i=postman" /> |
+| **⚙️ DevOps & Version Control** | <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" /> |
+| **💻 Development Environment** | <img src="https://skillicons.dev/icons?i=vscode,figma" /> |
+| **☁️ Cloud & Services** | <img src="https://skillicons.dev/icons?i=aws,gcp" /> |
+| **🎯 Currently Learning** | <img src="https://skillicons.dev/icons?i=kubernetes,tensorflow" /> |
+
+### 🔧 Additional Tools & Technologies
+
+| Tool Type | Tools |
+|-----------|--------|
+| **🧪 API Testing** | Postman • Thunder Client • Insomnia |
+| **🎨 Design & Prototyping** | Figma |
+| **☁️ Cloud Platforms** | Google Cloud Platform • AWS |
+| **🤖 AI & Machine Learning** | TensorFlow • Python AI Libraries |
+| **🌐 Full-Stack Development** | MERN Stack (MongoDB, Express.js, React.js, Node.js) |
+| **⚡ Server Technologies** | JSP • Servlets • PHP |
 
 
 
@@ -84,8 +98,4 @@ I'm always excited to collaborate on innovative projects and connect with fellow
 - 📚 Always reading tech blogs and staying updated with industry trends
 - 🎯 Goal-oriented learner who loves tackling challenging problems
 - 🚀 Believer in the power of clean code and continuous improvement
-
-
-
-
 
