@@ -8,6 +8,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
+---
+
 ## 🚀 About Me
 
 🎓 **IT Undergraduate** passionate about creating innovative solutions and exploring emerging technologies
@@ -16,6 +18,7 @@
 💡 Currently diving deep into **DevOps practices**, **AI/ML applications**, and **modern deployment stacks**
 🔭 Building projects that bridge **development** and **operations**
 🌱 Always learning and adapting to new technologies in the ever-evolving tech landscape
+
 ---
 
 ## 🛠️ Skills & Technologies
