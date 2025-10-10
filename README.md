@@ -81,109 +81,14 @@ class Developer:
 <summary><b>💻 Languages & Core Technologies</b></summary>
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(max-width: 480px)" srcset="https://skillicons.dev/icons?i=python,javascript,cs,java&theme=dark&perline=4">
-    <source media="(max-width: 768px)" srcset="https://skillicons.dev/icons?i=python,javascript,cs,java,kotlin,go&theme=dark&perline=6">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cs,java,kotlin,go,typescript,php&theme=dark" />
-  </picture>
-</p>
+## 🛠️ Tech Arsenal  
 
-</details>
+| 💻 Languages | 🎨 Frontend | ⚙️ Backend & APIs | 🗄️ Databases | ☁️ DevOps & Cloud | 🔧 Tools & Platforms | 🚀 Exploring |
+|--------------|-------------|-------------------|---------------|--------------------|----------------------|--------------|
+| ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![Go](https://skillicons.dev/icons?i=go) | ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Sass](https://skillicons.dev/icons?i=sass) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Figma](https://skillicons.dev/icons?i=figma) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Django](https://skillicons.dev/icons?i=django) ![PHP](https://skillicons.dev/icons?i=php) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) | ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitLab](https://skillicons.dev/icons?i=gitlab) ![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux) ![Android](https://skillicons.dev/icons?i=android) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
 
-<p align="center">
-  <picture>
-    <source media="(max-width: 480px)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark&perline=4">
-    <source media="(max-width: 768px)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind&theme=dark&perline=6">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,bootstrap,figma&theme=dark" />
-  </picture>
-</p>
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & APIs</b></summary>
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 480px)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,express,dotnet&theme=dark&perline=4">
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,dotnet,php,django&theme=dark" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql&theme=dark" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 480px)" srcset="https://skillicons.dev/icons?i=docker,git,github,aws&theme=dark&perline=4">
-    <source media="(max-width: 768px)" srcset="https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,gcp&theme=dark&perline=6">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,gcp,netlify,vercel&theme=dark" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
-
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,android&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
-  <img src="https://img.shields.io/badge/venv-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-</details>
-
-<details open>
-<summary><b>🚀 Currently Exploring</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,tensorflow,pytorch&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Development-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-</details>
-
----
 
 ## 💼 Featured Projects
 
