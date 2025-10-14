@@ -225,7 +225,7 @@ Haycarb PLC / Hayleys PLC
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sadumina&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sadumina&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" width="100%" />
 
 </td>
 <td width="50%">
