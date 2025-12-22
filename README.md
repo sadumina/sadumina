@@ -50,7 +50,7 @@
 
 ᴀʟᴡᴀʏꜱ ʟᴇᴀʀɴɪɴɢ · ᴀʟᴡᴀʏꜱ ʙᴜɪʟᴅɪɴɢ · ᴀʟᴡᴀʏꜱ ɪᴍᴘʀᴏᴠɪɴɢ
 
-[![](https://img.shields.io/badge/ʟɪɴᴋᴇᴅɪɴ-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin)
+[![]([https://img.shields.io/badge/ʟɪɴᴋᴇᴅɪɴ-0077B5?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sadumina-rathnayaka-744792278/))](your-linkedin)
 [![](https://img.shields.io/badge/ᴇᴍᴀɪʟ-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
 
 </div>
