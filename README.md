@@ -53,7 +53,6 @@ role_match = {
     "Backend Engineer":           85,  # Strong API & system design
     "Full-Stack Developer":       80,  # React + Python stack
     "Real-Time Systems Engineer": 75,  # WebSocket expertise
-    "IoT Developer":              70,  # Industrial automation
     "DevOps Engineer":            50   # Growing Docker skills
 }
 ```
@@ -108,38 +107,7 @@ graph LR
 **DevOps:** Docker • Git • Azure  
 **Protocols:** WebSocket • REST • Pub/Sub
 
-## Contribution Pattern
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadumina&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadumina&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-## Growth Timeline
-
-```
-2024 Q1  →  Academic Projects (Java, Web Basics)
-2024 Q2  →  FastAPI & React Learning
-2024 Q3  →  Haycarb Internship (Production Systems)
-2024 Q4  →  Industrial IoT & WebSockets
-2025 Q1  →  Advanced Architectures & Cloud
-```
-
-## Key Achievements
-
-- ✅ Deployed 3 production systems at Haycarb PLC
-- ✅ Built WebSocket architecture from scratch
-- ✅ Implemented containerized microservices
-- ✅ Real-time vehicle tracking with IoT sensors
-- ✅ Grade A on academic team project
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadumina-bagya-744792278/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://v0-unique-portfolio-ojno.vercel.app)
-[![Medium](https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@bagyasadumina)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/it23394124)
-
----
 
 > *"I don't follow perfection—I just improve my knowledge"*  
 > Currently focused on building real-world systems that solve industrial problems
