@@ -83,21 +83,6 @@ CarbonXInsight:
   purpose: Product pricing analytics
 ```
 
-## Project Architecture
-
-```mermaid
-graph LR
-    A[React Frontend] --> B[FastAPI Backend]
-    B --> C[MongoDB/PostgreSQL]
-    B --> D[Redis Cache]
-    B --> E[Docker Container]
-    
-    style A fill:#61dafb
-    style B fill:#009688
-    style C fill:#47A248
-    style D fill:#DC382D
-    style E fill:#2496ED
-```
 
 ## Tech Stack
 
