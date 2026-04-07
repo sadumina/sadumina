@@ -1,14 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sadumina%20Rathnayaka&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineering%20Intern%20%C2%B7%20Backend-Focused%20Full-Stack%20Developer&descAlignY=56&descAlign=50&descSize=18" />
+
 <div align="center">
 
-# Sadumina Rathnayaka
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Backend+Developer+%F0%9F%9A%80;Real-time+Systems+Engineer+%E2%9A%A1;Industrial+IoT+Enthusiast+%F0%9F%8F%AD;FastAPI+%7C+Django+%7C+Node.js;Always+improving+%F0%9F%92%AA)](https://git.io/typing-svg)
 
-**Software Engineering Intern · Backend-Focused Full-Stack Developer**
-
-*Colombo, Sri Lanka*
+*Colombo, Sri Lanka 🇱🇰*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadumina-rathnayaka)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sadumina@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=sadumina&style=flat-square&color=58A6FF&label=Profile+Views)
 
 ---
 
@@ -102,8 +103,24 @@ const sadumina = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadumina/sadumina/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadumina/sadumina/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sadumina/sadumina/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 *Open to internship extensions, graduate roles, and collaborative projects in backend or full-stack engineering.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
