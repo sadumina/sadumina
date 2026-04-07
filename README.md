@@ -1,98 +1,109 @@
+<div align="center">
+
 # Sadumina Rathnayaka
 
-**Software Engineering Intern @ Haycarb PLC & Hayleys PLC**  
-Building production systems for industrial automation and real-time tracking
+**Software Engineering Intern · Backend-Focused Full-Stack Developer**
+
+*Colombo, Sri Lanka*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadumina-rathnayaka)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sadumina@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 
 ---
 
-## Technical Profile
+*Building production-grade systems for industrial automation and real-time tracking at Haycarb PLC & Hayleys PLC*
+
+</div>
+
+---
+
+## About Me
+
+I'm a software engineering intern with hands-on experience delivering **production systems** used daily by factory operations, sales, and management teams. My work spans backend API design, real-time WebSocket architectures, and industrial IoT integrations — with a focus on systems that are reliable, maintainable, and built to scale.
 
 ```typescript
-const developer = {
-  location: "Colombo, Sri Lanka",
-  role: "Backend-Focused Full-Stack Developer",
-  
-  languages: {
-    python: "45%",      // FastAPI, Django, Automation
-    javascript: "35%",  // React, Node.js, Real-time
-    java: "15%",        // Enterprise systems
-    typescript: "5%"    // Type-safe apps
-  },
-  
-  specializations: [
-    "Real-time WebSocket Systems",
-    "Industrial IoT Solutions", 
-    "Factory Automation",
-    "API Development"
-  ]
-}
+const sadumina = {
+  location:        "Colombo, Sri Lanka 🇱🇰",
+  currentRole:     "Software Engineering Intern @ Haycarb PLC & Hayleys PLC",
+  focus:           ["Backend APIs", "Real-time Systems", "Industrial IoT"],
+  openTo:          ["Junior Backend Engineer", "Full-Stack Developer", "IoT Solutions Developer"],
+  motto:           "I don't follow perfection — I just keep improving."
+};
 ```
 
-## Language Distribution
+---
 
-![Python](https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-35%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-15%25-007396?style=flat-square&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+## 🛠 Tech Stack
 
-## Framework Expertise
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-| Framework | Proficiency | Projects | Use Case |
-|-----------|-------------|----------|----------|
-| **FastAPI** | ████████░░ 85% | 3 | Backend APIs, Microservices |
-| **React** | ████████░░ 80% | 5 | Web UIs, Dashboards |
-| **Django Channels** | ███████░░░ 70% | 2 | WebSocket, Real-time |
-| **Node.js** | ██████░░░░ 65% | 3 | API Services |
-| **Docker** | ██████░░░░ 60% | 4 | Containerization |
+### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## Role Compatibility
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-```python
-# Based on current skills and project portfolio
-role_match = {
-    "Backend Engineer":           85,  # Strong API & system design
-    "Full-Stack Developer":       80,  # React + Python stack
-    "Real-Time Systems Engineer": 75,  # WebSocket expertise
-    "DevOps Engineer":            50   # Growing Docker skills
-}
-```
+### Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Best Fit Roles:**
-- Junior Backend Engineer (FastAPI/Django focus)
-- Full-Stack Developer (Python + React)
-- IoT Solutions Developer (Industrial systems)
+### Protocols & Patterns
+`WebSocket` · `REST` · `Pub/Sub` · `Microservices`
 
-## Production Systems
+---
 
-**Currently Running at Haycarb PLC:**
+## 🚀 Production Systems @ Haycarb PLC
 
-```yaml
-VehicleMonitoring:
-  stack: [React, Node.js, MongoDB]
-  users: Factory Operations
-  purpose: Real-time gate management
-  
-FuelTracker:
-  stack: [FastAPI, React, Docker]
-  users: PD Department  
-  purpose: Fuel consumption tracking
-  
-CarbonXInsight:
-  stack: [FastAPI, React]
-  users: Sales & Marketing
-  purpose: Product pricing analytics
-```
+> These are live systems actively used by internal teams — not demo projects.
 
+| System | Stack | Users | Purpose |
+|--------|-------|-------|---------|
+| **Vehicle Monitoring** | React · Node.js · MongoDB | Factory Operations | Real-time gate & vehicle management |
+| **Fuel Tracker** | FastAPI · React · Docker | PD Department | Fuel consumption tracking & reporting |
+| **CarbonX Insight** | FastAPI · React | Sales & Marketing | Product pricing analytics dashboard |
 
-## Tech Stack
+---
 
-**Backend:** FastAPI • Django • Node.js • Redis  
-**Frontend:** React • Next.js • HTML/CSS  
-**Database:** MongoDB • PostgreSQL  
-**DevOps:** Docker • Git • Azure  
-**Protocols:** WebSocket • REST • Pub/Sub
+## 📊 Skills at a Glance
 
+| Area | Level | Notes |
+|------|-------|-------|
+| **FastAPI** | ████████░░ 85% | REST APIs, async endpoints, microservices |
+| **React** | ████████░░ 80% | Dashboards, real-time UIs |
+| **Django Channels** | ███████░░░ 70% | WebSocket, live data feeds |
+| **Node.js** | ██████░░░░ 65% | API services, event-driven systems |
+| **Docker** | ██████░░░░ 60% | Containerization, multi-service setups |
 
+---
 
-> *"I don't follow perfection—I just improve my knowledge"*  
-> Currently focused on building real-world systems that solve industrial problems
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadumina&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadumina&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to internship extensions, graduate roles, and collaborative projects in backend or full-stack engineering.*
+
+</div>
