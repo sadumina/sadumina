@@ -1,126 +1,100 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sadumina%20Rathnayaka&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineering%20Intern%20%C2%B7%20Backend-Focused%20Full-Stack%20Developer&descAlignY=56&descAlign=50&descSize=18" />
+# Hi, I'm Sadumina 👋
 
-<div align="center">
+**Software Engineering Student · Full-Stack Developer · Colombo, Sri Lanka**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Backend+Developer+%F0%9F%9A%80;Real-time+Systems+Engineer+%E2%9A%A1;Industrial+IoT+Enthusiast+%F0%9F%8F%AD;FastAPI+%7C+Django+%7C+Node.js;Always+improving+%F0%9F%92%AA)](https://git.io/typing-svg)
-
-*Colombo, Sri Lanka 🇱🇰*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadumina-rathnayaka)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sadumina@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=sadumina&style=flat-square&color=58A6FF&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadumina--rathnayaka-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sadumina-rathnayaka)
+[![GitHub](https://img.shields.io/badge/GitHub-sadumina-black?style=flat-square&logo=github)](https://github.com/sadumina)
+[![Email](https://img.shields.io/badge/Email-bagyasadumina@gmail.com-red?style=flat-square&logo=gmail)](mailto:bagyasadumina@gmail.com)
 
 ---
 
-*Building production-grade systems for industrial automation and real-time tracking at Haycarb PLC & Hayleys PLC*
-
-</div>
+Results-driven software engineering student at **SLIIT** with 6+ months of hands-on internship experience at **Hayleys PLC**. I build production-ready full-stack systems across Node.js, Python, React, and cloud infrastructure.
 
 ---
 
-## About Me
+## 🛠️ Tech Stack
 
-I'm a software engineering intern with hands-on experience delivering **production systems** used daily by factory operations, sales, and management teams. My work spans backend API design, real-time WebSocket architectures, and industrial IoT integrations — with a focus on systems that are reliable, maintainable, and built to scale.
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-```typescript
-const sadumina = {
-  location:        "Colombo, Sri Lanka 🇱🇰",
-  currentRole:     "Software Engineering Intern @ Haycarb PLC & Hayleys PLC",
-  focus:           ["Backend APIs", "Real-time Systems", "Industrial IoT"],
-  openTo:          ["Junior Backend Engineer", "Full-Stack Developer", "IoT Solutions Developer"],
-  motto:           "I don't follow perfection — I just keep improving."
-};
-```
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-## 🛠 Tech Stack
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-
-### Backend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Protocols & Patterns
-`WebSocket` · `REST` · `Pub/Sub` · `Microservices`
+**Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-## 🚀 Production Systems @ Haycarb PLC
+## 🚀 Featured Projects
 
-> These are live systems actively used by internal teams — not demo projects.
+### [CarbonXinsight — Enterprise Analytics Platform](https://github.com/sadumina)
+> Intelligent analytics platform for HayCarb's sales and marketing teams
 
-| System | Stack | Users | Purpose |
-|--------|-------|-------|---------|
-| **Vehicle Monitoring** | React · Node.js · MongoDB | Factory Operations | Real-time gate & vehicle management |
-| **Fuel Tracker** | FastAPI · React · Docker | PD Department | Fuel consumption tracking & reporting |
-| **CarbonX Insight** | FastAPI · React | Sales & Marketing | Product pricing analytics dashboard |
+- Real-time pricing insights, distribution tracking & predictive forecasting
+- Python-based forecasting models for data-driven pricing strategy
+- Interactive React.js dashboards with sales trend analysis across multiple regions
 
----
-
-## 📊 Skills at a Glance
-
-| Area | Level | Notes |
-|------|-------|-------|
-| **FastAPI** | ████████░░ 85% | REST APIs, async endpoints, microservices |
-| **React** | ████████░░ 80% | Dashboards, real-time UIs |
-| **Django Channels** | ███████░░░ 70% | WebSocket, live data feeds |
-| **Node.js** | ██████░░░░ 65% | API services, event-driven systems |
-| **Docker** | ██████░░░░ 60% | Containerization, multi-service setups |
+**Stack:** React · FastAPI · Python · Predictive Analytics
 
 ---
 
-## 📈 GitHub Stats
+### [Vehicle Detection & Monitoring System](https://github.com/sadumina)
+> Full-stack vehicle monitoring system with 100% ownership of backend, frontend & database
 
-<div align="center">
+- 40% faster request handling through optimised MongoDB models
+- Real-time React dashboard reduced manual vehicle logging time by 70%
+- Dockerised with GitHub Actions CI/CD pipeline
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadumina&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadumina&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadumina/sadumina/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadumina/sadumina/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sadumina/sadumina/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+**Stack:** FastAPI · React · MongoDB · Docker · GitHub Actions
 
 ---
 
-<div align="center">
+### [DreamWorks Studio Management System](https://github.com/sadumina)
+> Group project — led complete User Management module
 
-*Open to internship extensions, graduate roles, and collaborative projects in backend or full-stack engineering.*
+- JWT-based authentication & Role-Based Access Control (RBAC)
+- Normalised database schema with MongoDB aggregation pipelines
+- Reduced redundant queries by 35%
 
-</div>
+**Stack:** React · Node.js · Express · MongoDB
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+---
+
+## 💼 Experience
+
+**Software Engineering Intern** @ Hayleys PLC / Haycarb PLC *(Sept 2025 – Present)*
+- Engineered FastAPI & Node.js backend services, improving API reliability by 25%
+- Built React.js & Next.js analytics dashboards comprising 35% of UI components
+- Automated CI/CD pipelines using GitHub Actions & Docker, reducing manual deployment steps by 30%
+
+---
+
+## 📫 Let's connect
+
+- 📧 [bagyasadumina@gmail.com](mailto:bagyasadumina@gmail.com)
+- 💼 [linkedin.com/in/sadumina-rathnayaka](https://linkedin.com/in/sadumina-rathnayaka)
+- 💻 [github.com/sadumina](https://github.com/sadumina)
+
+---
+
+*Currently pursuing BSc (Hons) in Information Technology at SLIIT · Expected May 2027*
+*Open to full-time Software Engineering Trainee roles · Immediate availability*
